@@ -1,0 +1,10 @@
+Ma nhan vien : 2
+Ten nhan vien: 2
+Ma so thue   : 2
+So gio lam   : 2
+Luong moi gio: 2
+Luong        : 4
+Ma nhan vien : 1
+Ten nhan vien: 1
+Ma so thue   : 1
+Luong        : 1
